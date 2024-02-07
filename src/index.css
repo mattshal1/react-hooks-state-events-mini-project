@@ -82,6 +82,7 @@ h5 {
   border-bottom: none;
   padding: 0.25rem 1rem 0.25rem 0.25rem;
   display: flex;
+  flex-direction: column;
 }
 
 .tasks .task:first-of-type {
